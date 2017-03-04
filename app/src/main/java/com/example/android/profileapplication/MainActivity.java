@@ -13,7 +13,6 @@ public class MainActivity extends AppCompatActivity {
     }
     public int add(int a,int b){
         int c=a+b;
-        String s="hdfh";
         return c;
     }
 }
