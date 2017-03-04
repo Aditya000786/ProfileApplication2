@@ -11,4 +11,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         /*A minor change*/
     }
+    public void add(int a,int b){
+        int c=a+b;
+        String s="hdfh";
+    }
 }
