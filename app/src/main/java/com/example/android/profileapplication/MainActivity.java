@@ -15,4 +15,7 @@ public class MainActivity extends AppCompatActivity {
         int c=a+b;
         return c;
     }
+    public int multiply(int a,int b){
+        return a*b;
+    }
 }
