@@ -11,13 +11,4 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         /*A minor change*/
     }
-    public int add(int a,int b){
-        int c=a+b;
-        return c;
-    }
-    
-    public int multiply(int a,int b){
-        int c=a*b;
-        return c;
-    }
 }
